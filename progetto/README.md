@@ -1,3 +1,7 @@
+# cartella progetto
+
+il progetto creato è all'interno della cartella progetto. il resto è il contenuto creato a lezione.
+
 # descrizione contenuto e struttura dataset
 
 il dataset descrive il prezzo di vendita una raccolta di case, con altre 6 colonne che descrivono le loro caratteristiche principali come posizione (latitudine e longitudine), data dell'acquisto, tempo dalla data di costruzione, distanza dalla metropolitana più vicina e numero di minimarket vicini.
